@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+body{font-family: 'Satisfy', cursive;
+background-color: #FEF3C7;
+display:block;}
+
+
+h1{
+    font-family: 'Satisfy', cursive;
+    color: black;
+    text-align:center;
+padding-top: 2rem;}
+
+    .header{
+        background-color:#FBBF24;
+        height:10rem;
+    }
+
+    .header-img{
+        max-width:200px;
+        
+        padding-top:2rem;
+        padding-right:0cm;
+    }
