@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 
 body{font-family: 'Satisfy', cursive;
-background-color: #FEF3C7;
+background-color: #fffbeb;
 display:block;}
 
 
@@ -12,13 +12,51 @@ h1{
 padding-top: 2rem;}
 
     .header{
-        background-color:#FBBF24;
-        height:10rem;
+        background-color: #fcd34d;
+        height:6rem;
+        border-radius: 3rem;
     }
 
-    .header-img{
-        max-width:200px;
-        
-        padding-top:2rem;
-        padding-right:0cm;
+#txt-area{
+   text-align: center;
+   margin:4rem;
+   
+}
+
+    #txt-input{
+        width: 80%;
+        height: 5rem;
+        border-radius:0.5rem 2rem;
     }
+
+#buttonDiv{
+    text-align: center;
+}
+
+   #btn-translate{
+    background-color: #fcd34d;
+    border-radius: 0.5rem ;
+    border-color: white;
+    color:white;
+    text-decoration: none;
+    padding:0.5rem 1rem;
+    margin-bottom: 4rem;
+    } 
+
+     
+    #output{
+        border:1px solid black;
+        height:3.2rem;
+        width:60%;
+        margin:auto;
+        padding:1rem;
+        border-radius:0.5rem 2rem ;
+  }
+
+  #footer{
+text-align: center;
+background-color: #fcd34d;
+border-radius: 3rem;
+margin-top: 3.5rem;
+height: 6rem;
+  }
